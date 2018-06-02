@@ -1,4 +1,9 @@
-# githubSeminarNAK
 Hierbei handelt es sich um Simon Dose
 Test für ssh
-SSH funktioniert
+
+
+Simon ist der coolste
+
+
+Du kannst mir nicht entkommen!
+>>>>>>> mergekonflikt

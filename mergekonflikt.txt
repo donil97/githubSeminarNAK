@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hallo test mergekonflikt
+=======
+test des mergekonflikts. wichtig wichtig. toll toll.
+
