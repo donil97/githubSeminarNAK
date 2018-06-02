@@ -1,3 +1,4 @@
 # githubSeminarNAK
-Hierbei handelt es sich um ein GitHub Seminar der Nordakademie
+Hierbei handelt es sich um Simon Dose
 Test für ssh
+SSH funktioniert
